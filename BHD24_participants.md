@@ -4,7 +4,7 @@ Behold our amazing *list of hackers* :
 1. bat
 2. bi
 3. hiru
-4. lau
+4. Ihintza
 5. bost
 6. sei
 7. zazpi
